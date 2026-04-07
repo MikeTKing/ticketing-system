@@ -19,8 +19,7 @@ An automated ticketing system simulator built with Flask (Python) backend and va
 
 **Tech Stack:** Flask, SQLAlchemy, SQLite, Vanilla JavaScript, CSS3
 
-### 📊 [Network Monitor](./network-monitor/)
-A network monitoring tool with real-time status tracking.
+
 
 **Tech Stack:** Flask, Python, JavaScript
 

@@ -17,11 +17,8 @@ An automated ticketing system simulator built with Flask (Python) backend and va
 - Complete audit trail
 - Dashboard with statistics
 
-**Tech Stack:** Flask, SQLAlchemy, SQLite, Vanilla JavaScript, CSS3
+**Tech Stack:** Flask, SQLAlchemy, SQLite, Vanilla JavaScript, CSS3, Python, JavaScript
 
-
-
-**Tech Stack:** Flask, Python, JavaScript
 
 ## 🚀 Getting Started
 
